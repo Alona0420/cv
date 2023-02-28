@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    text-align: center ;
+    
+}
+h1{
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    color: white;
+
+}
+h2{
+    font-size: 18px;
+    
+}
+p{
+    /*font-family: 'DM Serif Display', serif;*/
+    font-family: 'Courgette', cursive;
+    color: #DA76FF;
+}
+.top{
+    position:relative ;
+    
+    background-color: #DFBB9D;
+    padding: 200px;
+    
+    
+}
+.middle{
+    margin: 100px 0 0 0;
+
+}
+.bottom{
+    text-align: center;
+    background-color: #DFBB9D;
+    padding: 8px;
+
+}
+.img1{
+    position: relative;
+    border-radius: 10px;
+}
+.hearts{
+    position: absolute;
+}
+.uga{
+    position: absolute;
+    top: 85px;
+    left: 660px;
+}
+.row{
+
+    width: 50%;
+    margin: 50px auto;
+}
+
+.column{
+    display: inline-block;
+
+}
+.left{
+    float: left;
+    width: 35%;
+
+}
+.right{
+    width: 65%;
+    
+
+}
+
+.row2{
+    width: 50%;
+    margin: 50px auto;
+}
+.column2{
+    display: inline-block;
+}
+.left2{
+    float: left;
+    width: 35%;
+}
+.right2{
+    width: 65%;
+    
+}
+
+.row3{
+    width: 50%;
+    margin: 50px auto;
+}
+.column3{
+    display: inline-block;
+}
+.left3{
+    float: left;
+    width: 35%;
+}
+.right3{
+    width: 65%;
+}
+
+a:link{
+    color: #DA76FF;
+    text-decoration: none;
+}
+a:visited{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: #9DD6DF;
+}
+hr{
+    border-top: dotted #c3c3c3 10px;
+    width: 50%;
+    border-bottom: none;
+}
+
+.btn{
+        
+    display: inline-block;
+    padding: 10px 20px;
+    border: 2px solid #9DD6DF;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+}
+.contact{
+    background-color: #DFBB9D;
+}
+
+.form_row{
+
+    width: 50%;
+    margin: 50px auto;
+}
+
+.column_form{
+    display: inline-block;
+
+}
+.left_form{
+    float: left;
+    width: 35%;
+
+}
+.right_form{
+    width: 65%;
+    
+
+}
